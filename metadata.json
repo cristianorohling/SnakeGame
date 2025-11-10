@@ -1,0 +1,5 @@
+{
+  "name": "React Neon Snake",
+  "description": "A classic snake game with a modern, polished, neon-themed interface. Features include adjustable speed and grid size, high score tracking, and smooth animations. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
